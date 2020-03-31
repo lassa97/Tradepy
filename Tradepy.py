@@ -7,8 +7,6 @@ import json
 import notify2
 import time
 
-# The param "percent_change_1h" is updated each 30 seconds, so I can use it for having up-to-date indo
-
 APP_NAME = "Tradepy"
 coins_id = [1, 2, 52, 1027, 1720]
 credit_count = 0

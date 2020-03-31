@@ -1,25 +1,20 @@
-<h1 align="center">
- Tradepy
-</h1>
-<p align="center">
-  <img src="Tradepy.png" height="100px" width="100px">
-  <br>
-  A simple script to get notifications of the exchange rate of some cryptocurrencies 🗠
+<h1 align="center">Welcome to Tradepy 👋</h1>
+<p>
 </p>
 
-# Pre-requisites
-You must have an API key from [CoinMarketCap](https://coinmarketcap.com/api/). Then, replace the fake key `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` with your real key.
+> A simple script to get notifications of the exchange rate of some cryptocurrencies 🗠
 
-# Run
-Clone this repo and execute with `python3 Trade.py`
+## Author
 
-# Details
-Now, it's tracking:
-- Bitcoin
-- Litecoin
-- XRP
-- Monero
-- Etherum
-- IOTA
+👤 **Fermin Lassa**
 
-If you want to track other coins, just get their id and add or replace in the `id` parameter of the petition.
+* Website: https://lassa97.github.io
+* Github: [@lassa97](https://github.com/lassa97)
+* LinkedIn: [@fermin-lassa-iglesias](https://linkedin.com/in/fermin-lassa-iglesias)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
