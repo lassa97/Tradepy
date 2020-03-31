@@ -1,3 +1,7 @@
+# Custom
+#  After using the README generator, it's always replacing the current README.md with another
+README.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
